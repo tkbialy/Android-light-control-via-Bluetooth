@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lampka</string>
+    <string name="no_bt_message">Twoje urządzenie nie posiada BlueTooth</string>
+    <string name="upper_button_text">Połącz z lampką</string>
+</resources>
